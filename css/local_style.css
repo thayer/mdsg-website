@@ -21,7 +21,7 @@ hr {
 	background-color:#b2d5c6; }
 
 blockquote {
-	background:url(images/blockquote.gif) repeat-y;
+	background:url(/images/blockquote.gif) repeat-y;
 	color:#363636; }
 
 
@@ -55,7 +55,7 @@ table.datatable td {
 /* Please note that editing any of the styles below can break the layout of your website. It is not recommended to do any editing without backing this file up. */
 
 #header {
-	background:#007342 url(images/header.gif) no-repeat;
+	background:#007342 url(/images/header.gif) no-repeat;
 	border-bottom:1px solid #ffffff;}
 
 
@@ -91,7 +91,7 @@ table.datatable td {
 	color:#ffffff; }
 
 	#header #utilitynav #stripe {
-		background:#007342 url(images/stripe.gif) no-repeat; }
+		background:#007342 url(/images/stripe.gif) no-repeat; }
 
 	#header #utilitynav a {
 		color:#ffffff; }
@@ -120,7 +120,7 @@ table.datatable td {
 	background-color:#d9eae3; }
 
 	#navigation li.subnav a, #navigation #related li a {
-		background:url(images/bullet.gif) no-repeat 6px 8px;
+		background:url(/images/bullet.gif) no-repeat 6px 8px;
 		color:#000000; }
 
 		#navigation li.subnav a:hover, #navigation #related li a:hover {
